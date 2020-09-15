@@ -1,0 +1,15 @@
+body {
+    display: block;
+    margin: 8px;
+    text-align: center;
+    background-color: dimgrey;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.card img {
+    margin: auto;
+    background-color: teal;
+}
